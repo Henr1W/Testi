@@ -9,3 +9,4 @@
 - auto
 - lehmä
 - koira
+- meemi
