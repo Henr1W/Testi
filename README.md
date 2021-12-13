@@ -8,3 +8,4 @@
 - haha
 - auto
 - lehmä
+- koira
